@@ -1,4 +1,4 @@
-# GL-MT6000 custom OpenWrt firmware builder
+# TUF AX6000 custom OpenWrt firmware builder
 
 This repository automates the process of building OpenWrt custom firmware images for **MY** Flint 2 (GL-MT6000) router, based on **MY PREFERENCES** and [pesa1234](https://github.com/pesa1234)'s work.
 
